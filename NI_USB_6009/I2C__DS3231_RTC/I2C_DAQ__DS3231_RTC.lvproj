@@ -14,7 +14,11 @@
 		<Item Name="_LIB_I2C_Shared" Type="Folder" URL="../../_LIB_I2C_Shared">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="DS3231_Date_Time.ctl" Type="VI" URL="../VIs/DS3231_Date_Time.ctl"/>
+		<Item Name="DS3231_Decode_Temperature.vi" Type="VI" URL="../VIs/DS3231_Decode_Temperature.vi"/>
 		<Item Name="DS3231_Decode_Time_Datavi.vi" Type="VI" URL="../VIs/DS3231_Decode_Time_Datavi.vi"/>
+		<Item Name="DS3231_Get_PC_Date_Time.vi" Type="VI" URL="../VIs/DS3231_Get_PC_Date_Time.vi"/>
+		<Item Name="Untitled 2.vi" Type="VI" URL="../VIs/Untitled 2.vi"/>
 		<Item Name="USB_DAQ__DS3231_RTC_Test_READ_Date_Time.vi" Type="VI" URL="../VIs/USB_DAQ__DS3231_RTC_Test_READ_Date_Time.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
