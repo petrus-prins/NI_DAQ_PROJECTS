@@ -14,6 +14,8 @@
 		<Item Name="_LIB_I2C_Shared" Type="Folder" URL="../../_LIB_I2C_Shared">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="USB_DAQ__EEPROM_Test_Array_Read_24C32.vi" Type="VI" URL="../VIs/USB_DAQ__EEPROM_Test_Array_Read_24C32.vi"/>
+		<Item Name="USB_DAQ__EEPROM_Test_Array_WRITE_24C32.vi" Type="VI" URL="../VIs/USB_DAQ__EEPROM_Test_Array_WRITE_24C32.vi"/>
 		<Item Name="USB_DAQ__EEPROM_Test_Single_Byte_Read_24C32.vi" Type="VI" URL="../VIs/USB_DAQ__EEPROM_Test_Single_Byte_Read_24C32.vi"/>
 		<Item Name="USB_DAQ__EEPROM_Test_Single_Byte_Write_24C32.vi" Type="VI" URL="../VIs/USB_DAQ__EEPROM_Test_Single_Byte_Write_24C32.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -217,6 +219,11 @@
 				<Item Name="DWDT Uncompress Digital.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/DWDTOps.llb/DWDT Uncompress Digital.vi"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 				<Item Name="High Resolution Polling Wait.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/High Resolution Polling Wait.vi"/>
+				<Item Name="Set Busy.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/cursorutil.llb/Set Busy.vi"/>
+				<Item Name="Set Cursor (Cursor ID).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/cursorutil.llb/Set Cursor (Cursor ID).vi"/>
+				<Item Name="Set Cursor (Icon Pict).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/cursorutil.llb/Set Cursor (Icon Pict).vi"/>
+				<Item Name="Set Cursor.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/cursorutil.llb/Set Cursor.vi"/>
+				<Item Name="Unset Busy.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/cursorutil.llb/Unset Busy.vi"/>
 			</Item>
 			<Item Name="DS3231_Date_Time.ctl" Type="VI" URL="../../I2C__DS3231_RTC/VIs/DS3231_Date_Time.ctl"/>
 			<Item Name="kernel32.dll" Type="Document" URL="kernel32.dll">
