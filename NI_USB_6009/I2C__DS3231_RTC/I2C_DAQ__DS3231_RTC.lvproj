@@ -18,8 +18,7 @@
 		<Item Name="DS3231_Decode_Temperature.vi" Type="VI" URL="../VIs/DS3231_Decode_Temperature.vi"/>
 		<Item Name="DS3231_Decode_Time_Datavi.vi" Type="VI" URL="../VIs/DS3231_Decode_Time_Datavi.vi"/>
 		<Item Name="DS3231_Get_PC_Date_Time.vi" Type="VI" URL="../VIs/DS3231_Get_PC_Date_Time.vi"/>
-		<Item Name="Untitled 2.vi" Type="VI" URL="../VIs/Untitled 2.vi"/>
-		<Item Name="USB_DAQ__DS3231_RTC_Test_READ_Date_Time.vi" Type="VI" URL="../VIs/USB_DAQ__DS3231_RTC_Test_READ_Date_Time.vi"/>
+		<Item Name="USB_DAQ__DS3231_RTC_Test_READ_WRITE_Date_Time.vi" Type="VI" URL="../VIs/USB_DAQ__DS3231_RTC_Test_READ_WRITE_Date_Time.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="DAQmx Clear Task.vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/configure/task.llb/DAQmx Clear Task.vi"/>
